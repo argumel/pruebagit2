@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ commons-codec-1.11.jar commons-io-2.4.jar commons-
+ lang3-3.3.2.jar commons-lang3-3.3.2-javadoc.jar commons-logging.jar d
+ om4j-1.6.1.jar fndcct.jar jsch-0.1.52.jar log4j-1.2.16.jar ojdbc14.ja
+ r poi-3.7-20101029.jar poi-ooxml-3.7-20101029.jar poi-ooxml-schemas-3
+ .7-20101029.jar poi-scratchpad-3.7-20101029.jar xbean.jar
+Class-Path: .
+Rsrc-Main-Class: mx.com.televisa.cfdis.gui.main.MainDesktop
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
